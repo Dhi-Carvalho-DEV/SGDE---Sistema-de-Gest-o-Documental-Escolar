@@ -33,3 +33,33 @@ docs: adiciona README principal do projeto
 ### Status
 
 ✅ Aprovado
+
+---
+
+## C-0002
+
+**Data:** 2026-07-23
+
+**Tipo:** Documentação
+
+**Commit**
+
+```text
+docs: cria README da documentação
+```
+
+### Documento
+
+| Arquivo        | Versão |
+| -------------- | ------ |
+| docs/README.md | 1.0    |
+
+### Descrição
+
+- Organização da documentação.
+- Definição das áreas da documentação.
+- Convenções iniciais.
+
+### Status
+
+✅ Aprovado
