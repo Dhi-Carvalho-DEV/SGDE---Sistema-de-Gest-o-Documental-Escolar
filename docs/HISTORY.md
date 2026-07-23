@@ -118,16 +118,19 @@ docs: adiciona cadastro de autores
 
 ```text
 docs: cria índice da documentação
+docs: cria template para registro no HISTORY.md
 ```
 
 **Documento**
 
-| Arquivo       | Versão |
-| ------------- | :----: |
-| docs/INDEX.md |  1.0   |
+| Arquivo                                              | Versão |
+| ---------------------------------------------------- | :----: |
+| docs/INDEX.md                                        |  1.0   |
+| docs/templates/TEMP-001-template-registro-history.md |  1.0   |
 
 **Descrição**
 
+- Criação do template para registro no HISTORY
 - Criação do índice central da documentação do SGDE.
 - Organização da documentação por áreas do projeto.
 - Inclusão das seções de Governança, Arquitetura, Decisões Arquiteturais, Domínio, Modelagem, Backend, Frontend, API, Deploy e Testes.
